@@ -29,6 +29,9 @@ This is an open-source, buffered, studio-grade contact microphone designed for p
 2. Securely attach the piezo disc to the desired surface using tape, putty, or a contact adhesive for optimal vibration transmission.
 3. Adjust input gain on your recording device to achieve the desired signal level.
 
+## Availability
+The microphone can be purchased preassembled and soldered, or users can download a `.rar` file containing all the Gerber files needed for production and assemble it themselves.
+
 ## Applications
 - **Musical Instruments**: Capture vibrations from guitars, violins, pianos, and other acoustic instruments.
 - **Sound Design & Foley**: Record subtle surface vibrations for experimental audio.
